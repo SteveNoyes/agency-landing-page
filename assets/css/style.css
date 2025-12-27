@@ -109,3 +109,46 @@ img {
 body {
   font-size: 18px;
 }
+
+nav {
+  background-color: #3fbfff;
+  display: flex;
+  padding: 35px 30px;
+  justify-content: space-between;
+}
+
+.header-image {
+  position: absolute;
+}
+
+.header-image-wrapper h1 {
+  position: relative;
+  top: 200px;
+  text-align: center;
+  font-family: 'Fraunces Bold';
+  font-size: 35px;
+  line-height: 1.3;
+  color: var(--white);
+  letter-spacing: 4px;
+  word-spacing: 2px;
+}
+
+.transform-brand img {
+  margin-top: 124%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-list {
+  display: none;
+}
